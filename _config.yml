@@ -1,6 +1,20 @@
-title: Minimal theme
+title: <p align="center"> Vishvmitra Belsare </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+description:
+ <p align="center">
+ <a href="pdf/resume.pdf">Resume</a> |
+ <a href="https://www.linkedin.com/in/vishvmitra-belsare-72781323/">LinkedIn</a> |
+ <a href="https://github.com/vishvmitra">GitHub</a>
+ 
+ <br>
+ I am a senior software developer with more than 8 years of experience in the industry. 
+ Currently, I am working in Microsoft India Pvt. Ltd. with O365-Insights team.
+ I have mostly worked on the backend with Spring Boot and Java, Asp .NET and C# platforms.
+ I have proficiency in database design and hands on with different databases - RDBMS and NoSQL. 
+ I have also worked as IOS app developer and proficient in Objective - C. Apart from this, I am also 
+ Machine Learning enthusiast and building my knowledge in AI and ML domain.
+ <br>
+ </p>
+ show_downloads: true
+ google_analytics: true
 theme: jekyll-theme-minimal
